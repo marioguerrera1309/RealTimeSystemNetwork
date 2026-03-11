@@ -1,0 +1,3 @@
+simulations/results/*.vec
+simulations/results/*.sca
+simulations/results/*.vci
